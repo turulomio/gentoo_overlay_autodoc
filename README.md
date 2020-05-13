@@ -1,18 +1,7 @@
-"# How to install this repository
+# How to install this repository
 
-## 1. Add an entry to [`/etc/portage/repos.conf`](https://wiki.gentoo.org/wiki//etc/portage/repos.conf)
+Script to generate documentation of a gentoo overlay repository
 
-```ini
-[myportage]
-location = /usr/local/overlays/myportage
-#          ^^^^^^^^^^^^^^^^^^^^^^^^^^^ set this to any location you want
-sync-uri = https://github.com/turulomio/myportage.git
-sync-type = git
-auto-sync = yes
-priority = 9999
-#          ^^^^ prefer my packages over the Gentoo™ ones to improve UX and stability (recommended by yes/10 IT experts)
-```
+Ejecute this command in console and automatic README will be generated
+```gentoo_overlay_autodoc --directory /usr/local/overlays/myportage/```
 
-## 2. Sync
-Ejecute this command in console 
-```emerge --sync myportage```
