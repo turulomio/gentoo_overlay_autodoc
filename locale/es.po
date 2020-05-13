@@ -1,0 +1,82 @@
+# Spanish translations for PACKAGE package
+# Traducciones al español para el paquete PACKAGE.
+# Copyright (C) 2015 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# root <turulomio@yahoo.es>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: TooManyFiles\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-13 20:22+0200\n"
+"PO-Revision-Date: 2015-03-22 18:51+0100\n"
+"Last-Translator: root <turulomio@yahoo.es>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "New Release:"
+msgstr "Nueva versión:"
+
+msgid "  * Change version and date in version.py"
+msgstr ""
+
+msgid "  * Edit Changelog in README"
+msgstr ""
+
+msgid "  * Make a new tag in github"
+msgstr ""
+
+msgid "  * Create a new gentoo ebuild with the new version"
+msgstr ""
+
+msgid "  * Upload to portage repository"
+msgstr ""
+
+msgid "Uninstall command only works in Linux"
+msgstr "El comando 'uninstall' solo funciona en Linux"
+
+msgid "DESCRIPTION"
+msgstr "DESCRIPCIÓN"
+
+msgid "Admin options to work with the max length of the name of your files"
+msgstr ""
+
+msgid "This app has the following mandatory parameters:"
+msgstr "Esta aplicación tiene los siguientes parámetros obligatorios"
+
+msgid "With --pretend and --remove you can use this parameters:"
+msgstr "Con --pretend y --remove puedes usar estos parámetros"
+
+msgid "FilenameLength list"
+msgstr "Listado de FilenameLength"
+
+msgid "{} files found {}"
+msgstr "{} ficheros encontrados {}"
+
+msgid "Different examples have been created in the directory 'filenamelength_examples'"
+msgstr ""
+
+msgid "'filenamelength_examples' directory removed"
+msgstr ""
+
+msgid "I can't remove 'filenamelength_examples' directory"
+msgstr ""
+
+msgid "Minimum length for windows is 247"
+msgstr "La mínima longitud para windows es 247"
+
+msgid "Developed by Mariano Muñoz 2019-{}"
+msgstr "Desarrollado por Mariano Muñoz 2019-{}"
+
+msgid "Create example directories"
+msgstr "Crear directorios de ejemplo"
+
+msgid "Remove example directories'"
+msgstr "Borrar directorios de ejemplo"
+
+msgid "List files with a minimum length"
+msgstr "Lista ficheros con una longitud mínima"

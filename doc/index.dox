@@ -1,0 +1,26 @@
+/*! \mainpage GentooOverlayAutodoc
+
+Introduction
+============
+
+Admin options to work with the max length of the name of your files
+
+The main web page is located in <a href="https://github.com/turulomio/gentoo_overlay_autodoc/">https://github.com/turulomio/gentoo_overlay_autodoc</a>
+
+The Pypi web page is located in <a href="https://pypi.org/project/gentoo_overlay_autodoc/">https://pypi.org/project/gentoo_overlay_autodoc/</a>
+
+Development
+===========
+- Turulomio (Idea y development)
+
+
+Software used to develop gentoo_overlay_autodoc
+=====================================
+
+<a target="_blank" href="https://eric-ide.python-projects.org/index.html">Eric</a> is used as the main IDE
+
+gentoo_overlay_autodoc depends on the following software:
+- <a target="_blank" href="https://www.python.org/">Python3</a>, as the main programming language.
+- <a target="_blank" href="https://pypi.org/project/colorama/">Colorama</a>, to give color to console output.
+
+*/
