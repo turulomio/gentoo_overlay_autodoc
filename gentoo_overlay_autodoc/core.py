@@ -67,7 +67,7 @@ Ejecute this command in console
 
     s=s + _("# List of ebuilds") + "\n"
     for o in twodirs:
-        s=s + "## "+  o +"\n\n"
+        s=s + "## ![Image of Yaktocat](https://www.github.com/turulomio/gentoo_overlay_autodoc/gentoo_overlay_autodoc/images/directory.png) "+  o +"\n\n"
     
     
     print(s)
