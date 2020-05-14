@@ -63,11 +63,23 @@ auto-sync = yes
 Ejecute this command in console 
 
 ```emerge --sync myportage```
+
+
+
+<style>
+.verticalcenter {
+    display: table-cell;
+    height: 400px;
+    vertical-align: middle;
+}
+</style>
+
+
 """
 
     s=s + _("# List of ebuilds") + "\n"
     for o in twodirs:
-        s=s + "## ![Image of Yaktocat](https://www.github.com/turulomio/gentoo_overlay_autodoc/gentoo_overlay_autodoc/images/directory.png) "+  o +"\n\n"
+        s=s + '## <div class="verticalcenter"><img src="https://raw.githubusercontent.com/turulomio/gentoo_overlay_autodoc/master/gentoo_overlay_autodoc/images/directory.png" alt="centered image" width="5%" />'+o+'</div>\n\n'
     
     
     print(s)
